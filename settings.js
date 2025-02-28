@@ -10,7 +10,7 @@ SESSION_ID: process.env.SESSION_ID === undefined ? 'VAJIRA-MD=xD9XzaoB#pjbZ1W_9s
 OWNER_NUMBER: process.env.OWNER_NUMBER === undefined ? '22395064497' : process.env.OWNER_NUMBER,
 N_JID: process.env.N_JID=== undefined ? '‌': process.env.N_JID,    
 PREFIX: process.env.PREFIX || '~' ,
-POSTGRESQL_URL: process.env.POSTGRESQL_URL === undefined ? 'postgres://vajiratech_user:oSIFl2xmSojMZ0rkzdd0g0W6msuVTpNN@dpg-cpd7fjv109ks73e5gtig-a.frankfurt-postgres.render.com/vajiratech' : process.env.POSTGRESQL_URL,   
+POSTGRESQL_URL: process.env.POSTGRESQL_URL === undefined ? 'postgresql://moudy_ggs4_user:1Tx91xlTiQ7jL2EMPUjVLa9xN4BfhafW@dpg-cusc0ca3esus73fltvs0-a.oregon-postgres.render.com/moudy_ggs4' : process.env.POSTGRESQL_URL,   
 MAX_SIZE: 500,
 MODE: process.env.MODE === undefined ? 'unbutton' : process.env.MODE,
 STATUS_REPLY_MESSAGE: '𝐘𝐎𝐔𝐑 𝐒𝐓𝐀𝐓𝐔𝐒 𝐒𝐄𝐄𝐍 𝐉𝐔𝐒𝐓 𝐍𝐎𝐖 𝐁𝐘 𝐕𝐀𝐉𝐈𝐑𝐀 𝐌𝐃 ✅',    
